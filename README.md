@@ -8,6 +8,12 @@ This project helps users manage and organize their daily tasks with a simple and
 I built this project to strengthen my full-stack development skills using Java and modern web technologies.
 Through this project, I learned how to design REST APIs, connect a Spring Boot backend to a PostgreSQL database, and integrate it with a React TypeScript frontend for a seamless user experience.
 
+
+
+https://github.com/user-attachments/assets/fb2a3e08-858e-414a-b084-f4531154217f
+
+
+
 🚀 Features
 
 🧩 Task Management: Create, edit, delete, and view tasks.
